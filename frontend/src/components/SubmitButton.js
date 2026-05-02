@@ -21,7 +21,7 @@ export const SubmitButton = () => {
         edges: edges.map((e) => ({ source: e.source, target: e.target })),
       };
 
-      const response = await fetch("http://localhost:8000/pipelines/parse", {
+      const response = await fetch("https://vector-shift-nftz.vercel.app/pipelines/parse", {
         method: "POST",
         headers: { "Content-Type": "application/json" },
         body: JSON.stringify(payload),
