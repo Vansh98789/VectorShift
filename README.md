@@ -17,4 +17,5 @@ npm install
 npm start
 ```
 
-Clear Explanation: <a>https://excalidraw.com/#json=EgYeG_Gpk2gkJf_N1rpCJ,YAT--gh6K0E22pB8Fpllzg</a>
+Clear Explanation: <a>https://excalidraw.com/#json=EgYeG_Gpk2gkJf_N1rpCJ,YAT--gh6K0E22pB8Fpllzg</a> <br>
+working app : <a> https://vector-shift-omega.vercel.app </a>
